@@ -25,6 +25,7 @@ int main()
 	case 10: cout << "31 день"; break;
 	case 11: cout << "30 днів"; break;
 	case 12: cout << "31 день"; break;
+	case 13: cout << "31 день"; break;
 	default: cout << "Помилка";
 	}
 
